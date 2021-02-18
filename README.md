@@ -1,2 +1,2 @@
 # BlixateGameEngine
-I really don't care what you do with this, just follow the license.
+Blixate Game Engine is Java 2D wrapper for Java's AWT library.
